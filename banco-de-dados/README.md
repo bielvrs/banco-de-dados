@@ -72,6 +72,8 @@ Pra ver a estrutura  da tabela se deu certo ou não = desc
 
 **select * from jogos;**
 
+exit;
+
 ## observação:
 
 * drop apaga banco de dados, enfim tudo.
